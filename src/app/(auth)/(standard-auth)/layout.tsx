@@ -1,6 +1,6 @@
 import { Logo } from '@/assets/logo'
 
-export default function AuthLayout({
+export default function StandardAuthLayout({
   children,
 }: {
   children: React.ReactNode
